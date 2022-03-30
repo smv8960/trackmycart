@@ -35,4 +35,4 @@ After the command is run successfully you can run the app on real device or on e
 
 And that was all about the Application of this repository, Thanks for watching...............................
 
-and click here to watch the Merchant Interface &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[cLick](https://github.com/smv8960/tmcmerchant)
+and In order to watch the Merchant side app [click here](https://github.com/smv8960/tmcmerchant)
