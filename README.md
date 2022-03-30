@@ -34,3 +34,5 @@ After the command is run successfully you can run the app on real device or on e
 7. <img src="assets/opening gmap.jpeg" width=190> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 8. <img src="assets/navigation.jpeg" width=190> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 9. <img src="assets/App Drawer .jpg" width=190>
 
 And that was all about the Application of this repository, Thanks for watching...............................
+
+and click here to watch the Merchant Interface &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[cLick](https://github.com/smv8960/tmcmerchant)
